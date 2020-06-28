@@ -1,0 +1,35 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+h1{
+    color:navy;
+    letter-spacing: 0px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color: blue;
+}
+.lool{
+    color: green;
+}
+.lorem2{
+    padding: 50px;
+    color: red;
+}
+
+img{
+    width: 500px;
+    margin: 100px;
+    display: block;
+    margin: auto;
+}
+.blog{
+    border: 2px solid purple;
+    border-radius: 4px;
+    padding: 20px;
+    text-align: center;
+    width: 45%;
+    float: left;
+    margin: 10px;
+}
